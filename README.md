@@ -30,7 +30,7 @@ Presentation 50%
 
 Participation 10%
 
-The degree of overall understanding of brain imaging data and knowledge about brain imaging data processing data are evaluated through the midterm exam, and the development process and results of brain imaging-based artificial intelligence models are evaluated through presentation and discussion.
+The degree of overall understanding of brain imaging data and knowledge about brain imaging data processing are evaluated through the midterm exam, and the development process and results of brain imaging-based artificial intelligence models are evaluated through presentation and discussion.
 
 
 ## 6. Required Materials
